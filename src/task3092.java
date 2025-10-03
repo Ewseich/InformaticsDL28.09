@@ -19,7 +19,6 @@ public class task3092 {
                 }
             }
             if (res[sum/2] >= 2) System.out.println("YES");
-            else System.out.println("NO");
         }
 
     }
